@@ -35,3 +35,4 @@ def print_totals2():
 print_totals2()
 
 import pandas as pd
+import numpy 
