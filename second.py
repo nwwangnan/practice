@@ -39,4 +39,3 @@ import pandas as pd
 def greater():
     print("How are you doing?")
 
-import numpy
