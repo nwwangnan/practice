@@ -35,4 +35,6 @@ def print_totals2():
 print_totals2()
 
 import pandas as pd
-import numpy 
+import numpy
+def greater():
+    print("Hi, how's it going?")
