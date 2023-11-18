@@ -36,4 +36,5 @@ print_totals2()
 
 def greeter():
     print("How are you doing?")
+    print("I love you!")
 
