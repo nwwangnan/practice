@@ -34,8 +34,6 @@ def print_totals2():
     print_beams()
 print_totals2()
 
-import pandas as pd
-
-def greater():
+def greeter():
     print("How are you doing?")
 
