@@ -33,3 +33,5 @@ def print_totals2():
     do_twice(print_total2)
     print_beams()
 print_totals2()
+
+import pandas as pd
