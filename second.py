@@ -34,7 +34,5 @@ def print_totals2():
     print_beams()
 print_totals2()
 
-import numpy  
-
 def greater():
     print("Hi, how's it going?")
