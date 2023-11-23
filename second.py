@@ -38,3 +38,5 @@ def greeter():
     print("How are you doing?")
     print("I love you!")
 
+my_name <- input("Please type your name.")
+
